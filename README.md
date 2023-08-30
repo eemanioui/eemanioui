@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I’m El Mehdi, a software engineer who enjoys diving into complex domains and solving unstructured problems. My experience is mostly in JavaScript, Ruby, Go, React, Express, PostgreSQL, Docker, and AWS, but I’m enthusiastic about learning any technologies or skills that will help the team succeed.
+I’m El Mehdi, a software engineer who enjoys diving into complex domains and solving unstructured problems. My experience is mostly in JavaScript, Ruby, Go, React, Express, PostgreSQL, Docker, and Infrastructure-as-Code deployments using AWS, but I’m enthusiastic about learning any technologies or skills that will help the team succeed.
 
 ## Featured Project
 
