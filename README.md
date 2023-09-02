@@ -4,7 +4,7 @@ I’m El Mehdi, a software engineer who enjoys diving into complex domains and s
 
 ## Featured Project
 
-Over the past couple of years, I’ve been learning software engineering at Launch School, gaining a solid foundation of fundamentals and the ability to analyze and articulate problems from a systems perspective. Most recently, I collaborated with a remote team to create [Canopy](https://canopy-framework.github.io), An open-source, low-config real-time monitoring framework designed specifically for CDNs.
+Over the past couple of years, I’ve been learning software engineering at Launch School, gaining a solid foundation of fundamentals and the ability to analyze and articulate problems from a systems perspective. Most recently, I collaborated with a remote team to create [Canopy](https://canopy-framework.github.io), an open-source, low-config real-time monitoring framework designed specifically for CDNs.
 
 Check out the [Case Study](https://canopy-framework.github.io/case-study) for more details!
 
